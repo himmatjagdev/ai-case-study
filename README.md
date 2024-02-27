@@ -21,3 +21,7 @@
 ### Expanded Product Portfolio: Shield AI could consider expanding its product portfolio to include AI-powered solutions for maritime and land-based operations. Offering autonomous systems tailored for diverse environments and mission requirements would broaden the company's market reach and enhance its competitive edge.
 ### Benefits of Diversification: Diversifying its product offerings would enable Shield AI to address a wider range of defense challenges and capitalize on emerging opportunities in maritime security, border surveillance, and land-based reconnaissance.
 ### Technological Integration: Additional products and services could leverage advanced technologies such as sensor fusion, computer vision, and edge computing to enhance situational awareness and decision-making capabilities in complex operational environments. These technologies would enable Shield AI to deliver comprehensive solutions that meet the evolving needs of defense customers.
+## References 
+### “About Us: AI Company That Makes Unmanned Systems Intelligent.” Shield AI, 20 Oct. 2023, [Shield AI About Us](https://shield.ai/about-us/)
+### “Shield AI Company Leaders: Lead to Serve Others.” Shield AI, 6 Nov. 2023, [Company Executives](https://shield.ai/about-us/company-executives/)
+### “Shield Ai.” Wikipedia, Wikimedia Foundation, 25 Feb. 2024, [Shield AI Wikipedia Page](https://en.wikipedia.org/wiki/Shield_AI) 
